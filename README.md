@@ -1,10 +1,21 @@
 # SimiYPlotter21
 #Javascript #plotter #Plotly.js #console vs document
 
-#### Step 1
+### Abstract
+#### Step 1 
 
      Provide a javascript file with the desired JSON objects
+              iTHTM.js -> daObJ0 :: Object
+                          daObJ1 :: Object
+  
+ #### Step 2  
+     Manually switch and select in objects
+              index.html
+              
+              type e.g> GET 2 flist2 CAT 2 dataStr11 
 
+ 
+ #### Step 1 Detailed                         
               const obJ0 = {"flist1":"40.1496259351621,47.93926247288503,50.81967213114754,62.0253164556962",
                             "flist2":"64.97816593886463,59.73799126637555,57.37991266375546,44.80349344978166",
                             "flist3":"30.139372822299652,19.686411149825783,14.982578397212542,9.177215189873417",
@@ -24,3 +35,5 @@
               const data00 = (""+dataStr0+"").split(","); //["40.1496259351621","47.93926247288503","50.81967213114754","62.0253164556962"];
               const data0 = (""+dataStr0+"").split(","); //["40.149","47.939","50.819","62.025"];
               const thu2Ar = ["B Byz","B B60","B B","B B","D N","F N"];
+              
+ #### Step 2 Detailed             
