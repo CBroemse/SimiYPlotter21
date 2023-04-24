@@ -1,7 +1,12 @@
 # SimiYPlotter21
-#Javascript #plotter #Plotly.js #console vs document
-
-### Abstract
+### #Javascript # d2c-js* #plotter #Plotly.js #console vs document #purly costumized javascript
+#### d2c-js ( document to console coding style) 
+##### good for newbees for purly costumized javascript
+   A form of javascript coding that avoids the console function for backend computations
+   all functions take input from document.getElementById( ......
+   
+##### template 
+### Older Text
 #### Step 1 
 
      Provide a javascript file with the desired JSON objects
