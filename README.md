@@ -1,11 +1,19 @@
 # SimiYPlotter21
-### #Javascript # d2c-js* #plotter #Plotly.js #console vs document #purly costumized javascript
+##### #Javascript # d2c-js* #plotter #Plotly.js #console_vs_document #purly_costumized-javascript
 #### d2c-js ( document to console coding style) 
 ##### good for newbees for purly costumized javascript
    A form of javascript coding that avoids the console function for backend computations
-   all functions take input from document.getElementById( ......
+   all functions take input from
+   
+     document.getElementById( ......
    
 ##### template 
+In this repo under: source/d2cTemplate_00_index.html
+###### template structure
+
+###### template imports:
+       - a exelesque library 
+       - a regular plotter
 ### Older Text
 #### Step 1 
 
