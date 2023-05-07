@@ -1,5 +1,5 @@
 # SimiYPlotter21
-##### #Javascript # d2c-js* #plotter #Plotly.js #console_vs_document #purly_costumized-javascript
+##### #Javascript # d2c-js* #plotter  #console_vs_document #purely_costumized-javascript #plotly.js # handsometabel.js
 #### d2c-js ( document to console coding style) 
 ##### good for newbees for purly costumized javascript
    A form of javascript coding that avoids the console function for backend computations
@@ -8,7 +8,7 @@
      document.getElementById( ......
    
 ##### template 
-In this repo under: source/d2cTemplate_00_index.html
+In this repo under: sourcce/d2cTemplate_00_index.html
 ###### template structure
 
 ###### template imports:
